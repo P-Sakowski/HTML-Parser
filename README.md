@@ -1,2 +1,3 @@
 # HTMLParser
-HTML parser displaying the last element of the longest unordered list. Prepared in Python language.
+HTML parser that displays the last element of the longest unordered list from the URL given in the parameter.
+Prepared in Python language.
